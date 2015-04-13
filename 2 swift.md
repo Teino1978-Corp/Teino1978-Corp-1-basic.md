@@ -1,0 +1,1 @@
+1, `??` in swift is as same as `||` in ruby.
